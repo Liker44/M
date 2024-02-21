@@ -6,4 +6,4 @@ ls
 
 cd M
 
-python HOJAT(1).Py
+python HOJAT.Py
